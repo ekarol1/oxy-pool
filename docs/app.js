@@ -17,7 +17,7 @@ app.controller('indexCtrl', function($scope, $http) {
         }
     });
 
-    $http.get ('https://wallet.oxycoin.io/api/delegates/get?username=500bitcoins').then (function (res) {
+    $http.get ('http://dev.hydra.iop.global:4703/api/delegates/ekarol').then (function (res) {
         $scope.delegate = res.data.delegate;
     });
 });
