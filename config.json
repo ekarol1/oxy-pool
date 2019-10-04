@@ -1,8 +1,8 @@
 {
-	"coin": "OXY",
-	"node": "https://wallet.oxycoin.io",
-	"nodepay": "https://wallet.oxycoin.io",
-	"pubkey": "0927dc2caa6d2bc2b516fd499562b669027629da75ddd44304352b6cd735fa26",
+	"coin": "Hydra",
+	"node": "dev.hydra.iop.globa",
+	"nodepay": "dev.hydra.iop.global",
+	"pubkey": "0302cb9e3dc8d66341ba5fbf466682b8ee2385d8b7250768a98c51bdbc2205afc7",
 	"percentage": 80,
 	"logfile": "poollogs.json",
 	"minpayout": 1.0,
